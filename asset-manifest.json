@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Resturant/static/css/main.92aa84c8.css",
+    "main.js": "/Resturant/static/js/main.d0a7c123.js",
+    "static/media/services-1.png": "/Resturant/static/media/services-1.b810024430d376b6bd6d.png",
+    "static/media/status.png": "/Resturant/static/media/status.91adf8dc0779a423e014.png",
+    "static/media/menu-3.png": "/Resturant/static/media/menu-3.0df4d0d0dda2d436bffc.png",
+    "static/media/menu-1.png": "/Resturant/static/media/menu-1.1defe43a880022701c8d.png",
+    "static/media/menu-2.png": "/Resturant/static/media/menu-2.a567a9db1482b99c0fab.png",
+    "index.html": "/Resturant/index.html",
+    "main.92aa84c8.css.map": "/Resturant/static/css/main.92aa84c8.css.map",
+    "main.d0a7c123.js.map": "/Resturant/static/js/main.d0a7c123.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92aa84c8.css",
+    "static/js/main.d0a7c123.js"
+  ]
+}
