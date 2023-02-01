@@ -1,0 +1,35 @@
+.navbar {
+  background-color: white;
+  height: 100px;
+}
+.navbar a {
+  color: var(--main-color);
+  font-size: 17px;
+  font-weight: bold;
+}
+.last-link {
+  background-color: var(--main-color);
+  color: white !important;
+  padding: 5px 23px !important;
+  transition: 0.3s;
+  border: 2px solid transparent;
+  margin-left: 15px;
+}
+.last-link:hover {
+  background-color: white;
+  border: 2px solid var(--main-color);
+  color: var(--main-color) !important ;
+}
+
+@media (max-width: 991px) {
+  .last-link {
+    margin: 0;
+  }
+  .navbar-collapse {
+    padding: 20px;
+    background-color: rgb(248, 248, 248);
+  }
+  .navbar-brand {
+    padding: 0 !important;
+  }
+}
